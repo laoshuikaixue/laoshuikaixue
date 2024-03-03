@@ -8,12 +8,7 @@
 
 ---
 
-<details> <summary>我目前是一名中学生，菜鸡开发，每样都会一点点，没有突出的特点。热爱计算机，爱好动手编写项目，而并非为竞赛升学而学。希望可以跟大家一起多多交流。</summary>
-今年中考
-
-在浙江舟山，目前还在为考高中而烦恼o(╥﹏╥)o(悲😭
-
-</details>
+目前是一名中学生，菜鸡开发，每样都会一点点，没有突出的特点。热爱计算机，爱好动手编写项目，而并非为竞赛升学而学。希望可以跟大家一起多多交流。</summary>
 
 `event.setPosition(you.PosX, you.posY, you.posZ);`
 
@@ -25,11 +20,11 @@
 
 ---
 
-### 🖥️ Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code>
+### 🖥️ Some Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code>
 
 https://github.com/UnlegitMinecraft/FDPClientChina
 
-https://github.com/laoshuikaixue
+https://github.com/laoshuikaixue/FDPClient
 
 https://github.com/SkidderMC/FDPClient
 
