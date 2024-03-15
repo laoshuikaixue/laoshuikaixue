@@ -32,7 +32,7 @@ https://github.com/SkidderMC/FDPClient
 
 ### 我的相关链接
 
-[个人博客](https://blog.lao-shui.top/)
+[个人博客](https://blog.lao-shui.top)
 
 [Bilibili](https://space.bilibili.com/516771561)
 
