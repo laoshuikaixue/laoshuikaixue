@@ -1,16 +1,18 @@
 ## Hi there 👋
+<br />
 
-有人来看我噜😄
-
----
-
-[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,bash,devto,discord,docker,electron,git,github,githubactions,cloudflare,go,html,idea,java,ts,js,lua,php,gradle,maven,linux,md,mysql,netlify,nextjs,nginx,nodejs,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,stackoverflow,solidjs,svg,tailwind,tauri,threejs,twitter,vercel,vite,vscode,vue,workers,zig,ae,pr,au,ps,ai,net,astro,opencv,postman,powershell,react,regex,sqlite,svg,wordpress)](https://github.com/laoshuikaixue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I'm+LaoShui;A+Chinese+high+school+student)](https://git.io/typing-svg)
 
 ---
 
-目前是一名准高中生，菜鸡开发，每样都会一点点，没有突出的特点。热爱计算机，爱好动手编写项目。希望可以跟大家一起多多交流。</summary>
+### 🙂My Skills
+[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,bash,cloudflare,vercel,discord,twitter,docker,electron,git,github,githubactions,html,py,pytorch,idea,java,gradle,maven,vscode,ts,js,lua,go,linux,md,mysql,nextjs,nginx,nodejs,planetscale,postman,qt,sqlite,stackoverflow,solidjs,svg,vite,vue,workers,zig,ae,pr,au,ps,ai,net,powershell,regex,wordpress)](https://github.com/laoshuikaixue)
 
-`event.setPosition(you.PosX, you.posY, you.posZ);`
+---
+
+🕍目前是一名准高中生，菜鸡开发，每样都会一点点，没有突出的特点。热爱计算机，爱好动手编写项目。希望可以跟大家一起多多交流。</summary>
+
+`mc.thePlayer.setPosition(you.PosX, you.posY, you.posZ);`
 
 ---
 
@@ -19,39 +21,3 @@
 ### 志在千秋，百年恰是少年
 
 ---
-
-### 🖥️ Some Open-Source Projects &emsp; <a href="AWESOME-STARS.md"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291263-dffd3fed-1588-4909-a67c-c8ef238bd3ee.png" alt="Give a Star" title="Give me a Star"></code></a>  <a href="https://github.com/Charmve?tab=repositories"><code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291252-0bdf1a5d-aafa-45c2-8d7d-0d3f8f83cb0c.png" alt="Subscribe me" title="Subscribe me"></code>
-
-https://github.com/UnlegitMinecraft/FDPClientChina
-
-https://github.com/laoshuikaixue/FDPClient
-
-https://github.com/SkidderMC/FDPClient
-
----
-
-### 我的相关链接
-
-[个人博客](https://blog.lao-shui.top)
-
-[Bilibili](https://space.bilibili.com/516771561)
-
-[YouTobe](https://www.youtube.com/@laoshui)
-
-[阿里云开发者社区](https://developer.aliyun.com/profile/dtvevsc2d4xha)
-
-<!--
-**laoshuikaixue/laoshuikaixue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
