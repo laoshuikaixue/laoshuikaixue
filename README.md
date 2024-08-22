@@ -6,7 +6,7 @@
 ---
 
 ### 🙂My Skills
-[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,bash,cloudflare,vercel,discord,twitter,docker,electron,git,github,githubactions,html,py,pytorch,idea,java,gradle,maven,vscode,ts,js,lua,go,linux,md,mysql,nextjs,nginx,nodejs,planetscale,postman,qt,sqlite,stackoverflow,solidjs,svg,vite,vue,workers,zig,ae,pr,au,ps,ai,net,powershell,regex,wordpress)](https://github.com/laoshuikaixue)
+[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,githubactions,bash,cloudflare,gcp,gmail,vercel,discord,twitter,docker,electron,html,py,pytorch,idea,java,gradle,maven,yarn,vscode,ts,js,lua,go,md,mysql,nextjs,nginx,nodejs,planetscale,postman,qt,sqlite,stackoverflow,solidjs,svg,vite,vue,workers,zig,ae,pr,au,ps,powershell,regex,wordpress,windows,ubuntu,linux)](https://skillicons.dev)
 
 ---
 
