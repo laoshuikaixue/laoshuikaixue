@@ -38,7 +38,7 @@ mc.thePlayer.setPosition(you.PosX, you.posY, you.posZ);
 ---
 
 <details>
-<summary><h2>About My Avata</h2></summary>
+<summary><h2>About My Avatar</h2></summary>
 
 "My avatar features the characters fun LaoShui(), where 'fun' stands for both function definition in programming and the meaning of 'fun' in English. It represents my passion for coding and how I define my happiness through it. I chose JetBrains Mono font with bold italic for 'fun' to highlight this key concept, symbolizing my pursuit of joy and unique expression in programming. LaoShui is my online name, styled like a function call, representing my personal style and coding philosophy."
 
