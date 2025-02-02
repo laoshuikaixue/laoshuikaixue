@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I'm+LaoShui;A+Chinese+high+school+student)](https://git.io/typing-svg)
 
-### Open Source Enthusiast / A boy born in 2008 🙋‍♂️
+### Open Source Enthusiast / A boy born in 2008 / ENFJ-A🙋‍♂️
 
 ---
 
