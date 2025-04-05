@@ -19,6 +19,7 @@ Currently a first-year student at Zhoushan Liuheng High School, passionate about
 
 🍔 **Front End** | 🍜 **Back End** | 🔐 **Network Security**
 
+![LaoShui's GitHub stats](https://github-readme-stats.vercel.app/api?username=laoshuikaixue&show_icons=true&theme=radical)
 ![Languages Over Time](https://stats.quira.sh/laoshuikaixue/languages-over-time?theme=dark)
 
 ---
