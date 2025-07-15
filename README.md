@@ -25,7 +25,7 @@ Currently a first-year student at Zhoushan Liuheng High School, passionate about
 
 ### 🙂 Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,githubactions,bash,cloudflare,gcp,gmail,vercel,discord,twitter,docker,electron,html,py,pytorch,idea,java,gradle,maven,yarn,vscode,ts,js,lua,go,md,mysql,nextjs,nginx,nodejs,planetscale,postman,qt,sqlite,stackoverflow,solidjs,svg,vite,vue,workers,zig,ae,pr,au,ps,powershell,regex,wordpress,windows,ubuntu,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,githubactions,bash,cloudflare,vercel,netlify,gcp,gmail,discord,twitter,docker,electron,html,py,flask,fastapi,qt,idea,java,pycharm,gradle,maven,yarn,vscode,visualstudio,ts,js,go,md,mysql,nextjs,nginx,nodejs,postman,sqlite,stackoverflow,solidjs,wordpress,vite,vue,nuxt,tailwind,prisma,svg,ae,pr,au,ps,powershell,regex,windows,ubuntu,linux)](https://skillicons.dev)
 
 ---
 
