@@ -7,11 +7,11 @@
 
 ---
 
-Currently a first-year student at Zhoushan Liuheng High School, passionate about coding and building projects. I love working with computers and making ideas come to life. Always eager to learn and collaborate with others.
+I am currently a second-year high school student (Grade 11) at Zhoushan Liuheng High School in China. Passionate about coding and building projects, I love working with computers and bringing creative ideas to life. Always eager to learn and collaborate with others.
 
-**目前住校 上学期间仅少部分时间可进行更新维护**
+📌 高二在读 | 住校生｜上学期间仅少部分时间可进行更新维护
 
-**Living on campus, and during the school term, I only have limited time available for updates and maintenance.**
+📌 Living on campus｜Limited availability for updates and maintenance during school terms.
 
 ---
 
