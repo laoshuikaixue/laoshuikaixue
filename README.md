@@ -36,12 +36,6 @@ mc.thePlayer.setPosition(you.PosX, you.posY, you.posZ);
 
 ---
 
-### 不忘初心，青春朝气永在
-
-### 志在千秋，百年恰是少年
-
----
-
 <details>
 <summary><h2>About My Avatar</h2></summary>
 
