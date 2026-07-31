@@ -20,7 +20,6 @@ I am currently a second-year high school student (Grade 12) at Zhoushan Liuheng 
 🍔 **Front End** | 🍜 **Back End** | 🔐 **Network Security**
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=laoshuikaixue&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=laoshuikaixue&show_icons=true&include_all_commits=true&theme=transparent)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=transparent)](https://wakatime.com/@alan)
 
 ---
 
