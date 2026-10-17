@@ -9,9 +9,9 @@
 
 I am currently a second-year high school student (Grade 12) at Zhoushan Liuheng High School in China. Passionate about coding and building projects, I love working with computers and bringing creative ideas to life. Always eager to learn and collaborate with others.
 
-📌 高三在读｜仅周末 / 假期更新项目
+📌 高三在读｜更新随缘，可能不及时
 
-📌 Senior 3, repo updates on weekends and holidays only
+📌 Senior 3 | Updates may be infrequent
 
 ---
 
