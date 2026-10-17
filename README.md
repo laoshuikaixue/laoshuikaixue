@@ -3,15 +3,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I'm+LaoShui;A+Chinese+high+school+student)](https://git.io/typing-svg)
 
-### Open Source Enthusiast / A boy born in 2008 / ENFJ-A🙋‍♂️
+### Open-source enthusiast · Born in 2008 · ENFJ-A 🙋‍♂️
 
 ---
 
-I am currently a second-year high school student (Grade 12) at Zhoushan Liuheng High School in China. Passionate about coding and building projects, I love working with computers and bringing creative ideas to life. Always eager to learn and collaborate with others.
+I’m in my final year of secondary school (Grade 12 / Senior 3) at Liuheng Middle School in Zhoushan, China. I enjoy coding, tinkering with computers, and turning ideas into projects. Always eager to learn and collaborate.
 
 📌 高三在读｜更新随缘，可能不及时
 
-📌 Senior 3 | Updates may be infrequent
+📌 Senior 3 (Grade 12) | Updates may be irregular
 
 ---
 
