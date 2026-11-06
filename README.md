@@ -1,13 +1,14 @@
-## Hi there 👋 This is @LaoShui!
+## Hi there 👋 I'm Evan (aka LaoShui)!
+
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I'm+LaoShui;A+Chinese+high+school+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I'm+Evan+Shen;A+Chinese+high+school+student)](https://git.io/typing-svg)
 
 ### Open-source enthusiast · Born in 2008 · ENFJ-A 🙋‍♂️
 
 ---
 
-I’m in my final year of secondary school (Grade 12 / Senior 3) at Liuheng Middle School in Zhoushan, China. I enjoy coding, tinkering with computers, and turning ideas into projects. Always eager to learn and collaborate.
+I'm Evan Shen, currently a Grade 12 student at **Zhoushan Liuheng High School** in Zhoushan, China. I enjoy coding, tinkering with computers, and turning ideas into projects. Always eager to learn, build, and collaborate.
 
 📌 高三在读｜更新随缘，可能不及时
 
@@ -38,6 +39,6 @@ mc.thePlayer.setPosition(you.PosX, you.posY, you.posZ);
 <details>
 <summary><h2>About My Avatar</h2></summary>
 
-"My avatar features the characters fun LaoShui(), where 'fun' stands for both function definition in programming and the meaning of 'fun' in English. It represents my passion for coding and how I define my happiness through it. I chose JetBrains Mono font with bold italic for 'fun' to highlight this key concept, symbolizing my pursuit of joy and unique expression in programming. LaoShui is my online name, styled like a function call, representing my personal style and coding philosophy."
+"My avatar features the characters `fun LaoShui()`, where 'fun' stands for both function definition in programming and the meaning of 'fun' in English. It represents my passion for coding and how I define my happiness through it. I chose JetBrains Mono font with bold italic for 'fun' to highlight this key concept, symbolizing my pursuit of joy and unique expression in programming. LaoShui is my online name, styled like a function call, representing my personal style and coding philosophy."
 
 </details>
